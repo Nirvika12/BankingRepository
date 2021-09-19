@@ -1,0 +1,16 @@
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\BankLibrary.Tests.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\BankLibrary.Tests.pdb
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\BankingLibrary.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\BankingLibrary.pdb
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\obj\Debug\BankLibrary.Tests.csproj.AssemblyReference.cache
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\obj\Debug\BankLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\obj\Debug\BankLibrary.Tests.csproj.CopyComplete
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\obj\Debug\BankLibrary.Tests.dll
+C:\Users\NIRVIKA\source\repos\JenkinsCIDemo\BankLibrary.Tests\obj\Debug\BankLibrary.Tests.pdb
